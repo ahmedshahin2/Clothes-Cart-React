@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Clothes-Cart-React/static/css/main.089dd441.css",
+    "main.js": "/Clothes-Cart-React/static/js/main.310d9b01.js",
+    "static/js/787.c4df67fb.chunk.js": "/Clothes-Cart-React/static/js/787.c4df67fb.chunk.js",
+    "static/media/logo.png": "/Clothes-Cart-React/static/media/logo.f5d58cf0e0c2b5c5fd00.png",
+    "static/media/1hoodie4.jpg": "/Clothes-Cart-React/static/media/1hoodie4.a73b95b9ea0b81b43124.jpg",
+    "static/media/hoodie1.jpg": "/Clothes-Cart-React/static/media/hoodie1.904dac27dcda0f19bf1e.jpg",
+    "static/media/hoodie2.jpg": "/Clothes-Cart-React/static/media/hoodie2.cb60e89e049a5798fbb3.jpg",
+    "static/media/1hoodie2.jpg": "/Clothes-Cart-React/static/media/1hoodie2.fea28a41c773d3f62442.jpg",
+    "static/media/hoodie6.jpg": "/Clothes-Cart-React/static/media/hoodie6.945e40c3e7274f34e9a4.jpg",
+    "static/media/1hoodie3.jpg": "/Clothes-Cart-React/static/media/1hoodie3.b4af742c06590742a28d.jpg",
+    "static/media/hoodie5.jpg": "/Clothes-Cart-React/static/media/hoodie5.3d9806b47f873fdca40f.jpg",
+    "static/media/hoodie8.jpg": "/Clothes-Cart-React/static/media/hoodie8.cf11ef53a46a424e5135.jpg",
+    "static/media/hoodie3.jpg": "/Clothes-Cart-React/static/media/hoodie3.2888cc96842d3d0d8a8d.jpg",
+    "static/media/hoodie4.jpg": "/Clothes-Cart-React/static/media/hoodie4.3d070e6b9a4d18b7ed22.jpg",
+    "static/media/hoodie7.jpg": "/Clothes-Cart-React/static/media/hoodie7.42cf2bdbadea8654e92c.jpg",
+    "index.html": "/Clothes-Cart-React/index.html",
+    "main.089dd441.css.map": "/Clothes-Cart-React/static/css/main.089dd441.css.map",
+    "main.310d9b01.js.map": "/Clothes-Cart-React/static/js/main.310d9b01.js.map",
+    "787.c4df67fb.chunk.js.map": "/Clothes-Cart-React/static/js/787.c4df67fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089dd441.css",
+    "static/js/main.310d9b01.js"
+  ]
+}
