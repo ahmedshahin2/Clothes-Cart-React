@@ -1,0 +1,19 @@
+.bg-container {
+  background-image: url(../../Asetss/images/2.jpg);
+  filter: drop-shadow(1px);
+  height: 100vh;
+}
+
+.top-txt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  opacity: 0.5;
+  background-color: black;
+}
+h1 {
+  opacity: 0.9;
+}
