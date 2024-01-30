@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Clothes-Cart-React/static/css/main.089dd441.css",
-    "main.js": "/Clothes-Cart-React/static/js/main.310d9b01.js",
+    "main.js": "/Clothes-Cart-React/static/js/main.3ecdad5d.js",
     "static/js/787.c4df67fb.chunk.js": "/Clothes-Cart-React/static/js/787.c4df67fb.chunk.js",
     "static/media/logo.png": "/Clothes-Cart-React/static/media/logo.f5d58cf0e0c2b5c5fd00.png",
     "static/media/1hoodie4.jpg": "/Clothes-Cart-React/static/media/1hoodie4.a73b95b9ea0b81b43124.jpg",
@@ -17,11 +17,11 @@
     "static/media/hoodie7.jpg": "/Clothes-Cart-React/static/media/hoodie7.42cf2bdbadea8654e92c.jpg",
     "index.html": "/Clothes-Cart-React/index.html",
     "main.089dd441.css.map": "/Clothes-Cart-React/static/css/main.089dd441.css.map",
-    "main.310d9b01.js.map": "/Clothes-Cart-React/static/js/main.310d9b01.js.map",
+    "main.3ecdad5d.js.map": "/Clothes-Cart-React/static/js/main.3ecdad5d.js.map",
     "787.c4df67fb.chunk.js.map": "/Clothes-Cart-React/static/js/787.c4df67fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.089dd441.css",
-    "static/js/main.310d9b01.js"
+    "static/js/main.3ecdad5d.js"
   ]
 }
